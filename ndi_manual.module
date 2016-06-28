@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the NDI_MANUAL feature.
+ */
+
+include_once 'ndi_manual.features.inc';
